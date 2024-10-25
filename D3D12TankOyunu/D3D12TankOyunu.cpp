@@ -954,7 +954,7 @@ void OnUpdate()
 			if (FireEnemyMissile) renderEnemyMissile = false;	// Enemy henüz ateş etmemişse
 		}
 		else {
-			if ((nearest.isWall && (Missile_RedDot_Distance < 0.5f))) {
+			if ((nearest.isWall && (Missile_RedDot_Distance < 0.5f))) {  // Duvara çarptıysa buraya girer
 				renderTankMissile = false;
 			}
 		}
