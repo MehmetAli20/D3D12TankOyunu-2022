@@ -1,0 +1,36 @@
+newmtl Missile2:lambert2SG
+illum 4
+Kd 0.55 0.27 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Missile2:lambert3SG
+illum 4
+Kd 0.51 0.27 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Missile3:lambert2SG
+illum 4
+Kd 0.55 0.27 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Missile3:lambert3SG
+illum 4
+Kd 0.51 0.27 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Missile4:lambert2SG
+illum 4
+Kd 0.55 0.27 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Missile4:lambert3SG
+illum 4
+Kd 0.51 0.27 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
